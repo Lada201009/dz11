@@ -1,0 +1,44 @@
+.container{
+  border: solid 1px gray;
+  width: 500px;
+  height: 97vw;
+}
+#dateBlock{
+  background-color:aqua;
+  height: 30px;
+  text-align: center;
+  border: solid 1px gray;
+}
+
+#btnAdd{
+  background-color: rgb(29, 243, 29);
+  padding: 3px;
+  border-radius: 5px;
+}
+#btnDel{
+  background-color:rgb(231, 19, 19);
+  padding: 3px;
+  border-radius: 5px;
+}
+button{
+  border: solid 1px black;
+  margin: 6px;
+  cursor: pointer;
+}
+#btnAdd:hover {
+  background-position: right center;
+  background-color: #fff;
+}
+#btnDel:hover {
+  background-position: right center;
+  background-color: #fff;
+}
+input{
+  margin: 3px;
+  cursor: pointer;
+}
+.check{
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
